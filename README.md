@@ -4,8 +4,10 @@ Big thanks to [rustybeer](https://github.com/drodil/rustybeer) from providing th
 
 ### Usage
 
-```rust
-cargo run
+Clone the repo, rename `.env.example` to `.env` and then:
+
+```
+$ cargo run
 ```
 
 ## Contributing
